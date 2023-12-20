@@ -14,6 +14,6 @@ public class GitTest {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("master push long repository!");
-
+        System.out.println("master need pull long repository!");
     }
 }
